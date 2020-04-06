@@ -1,0 +1,11 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 4CB8-F693
+
+ Directory of D:\Python\Amogh\Git
+
+06-04-2020  23:48    <DIR>          .
+06-04-2020  23:48    <DIR>          ..
+06-04-2020  23:10            44,433 Architecture.PNG
+06-04-2020  23:48                 0 test1.txt
+               2 File(s)         44,433 bytes
+               2 Dir(s)  168,698,273,792 bytes free
